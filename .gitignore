@@ -2,9 +2,10 @@
 !.gitignore
 
 node_modules/
-__pycache__/
-
 package-lock.json
+main.css
+
+__pycache__/
 
 credentials.*
 token.*
